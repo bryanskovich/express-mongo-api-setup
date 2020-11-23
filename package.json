@@ -1,6 +1,6 @@
 {
-  "name": "express-mongo-api-setup",
-  "version": "1.0.0",
+  "name": "@bryanskovich/express-mongo-api-setup",
+  "version": "0.0.1",
   "description": "All in one package for mongo express rest api project setup",
   "main": "index.js",
   "scripts": {
@@ -39,5 +39,34 @@
     "password-generator": "^2.3.2",
     "slugify": "^1.4.6",
     "xss-clean": "^0.1.1"
-  }
+  },
+  "engines": {
+    "node": ">=12.19"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "mongoose",
+    "json",
+    "jwt",
+    "dotenv",
+    "slugify",
+    "morgan",
+    "compression",
+    "rest",
+    "config",
+    "setup",
+    "moment",
+    "mongodb",
+    "web",
+    "bodyParse",
+    "validator",
+    "colors",
+    "hpp",
+    "rest api",
+    "mongoose api",
+    "pagination"
+
+  ],
+  "devDependencies": {}
 }
