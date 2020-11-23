@@ -1,6 +1,6 @@
 {
   "name": "express-mongo-api-setup",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "All in one package for mongo express rest api project setup",
   "main": "index.js",
   "scripts": {
