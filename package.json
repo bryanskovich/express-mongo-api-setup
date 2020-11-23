@@ -1,5 +1,5 @@
 {
-  "name": "@bryanskovich/express-mongo-api-setup",
+  "name": "express-mongo-api-setup",
   "version": "0.0.2",
   "description": "All in one package for mongo express rest api project setup",
   "main": "index.js",
